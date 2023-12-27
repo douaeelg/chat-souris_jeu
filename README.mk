@@ -1,6 +1,6 @@
 # TomCat et JerryMouse
 
-Ce jeu🎮 simple en 🐍Python🐍 utilise la bibliothèque Pygame pour créer une interface graphique où l'objectif est de déplacer le chat vers la souris dans une grille de 12x12. Voici comment utiliser et exécuter le jeu.
+Ce jeu simple en Python utilise la bibliothèque Pygame pour créer une interface graphique où l'objectif est de déplacer le chat vers la souris dans une grille de 12x12. Voici comment utiliser et exécuter le jeu.
 
 ### Installation
 Requis: Python3
