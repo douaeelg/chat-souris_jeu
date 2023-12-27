@@ -2,6 +2,8 @@
 
 Ce jeu🎮 simple en 🐍Python🐍 utilise la bibliothèque Pygame pour créer une interface graphique où l'objectif est de déplacer le chat vers la souris dans une grille de 12x12. Voici comment utiliser et exécuter le jeu.
 
+![mouse moving](https://github.com/douaeelg/chat-souris_jeu/assets/54261127/1fd77a8b-9fd2-4767-9265-76c46d9d971d)
+
 ### Installation
 Requis: Python3
 
@@ -27,6 +29,7 @@ game.py: Le script principal qui utilise Pygame pour créer l'interface graphiqu
 ### Commentaires dans le code
 Les commentaires ont été ajoutés pour expliquer chaque fonction et partie du code.
 Des messages informatifs sont affichés dans la console pour indiquer si le chat a attrapé la souris.
+
 ### Personnalisation du jeu
 Vous pouvez personnaliser la taille de la fenêtre, la taille des cases, les couleurs et les images du chat et de la souris en modifiant les paramètres dans le script game.py.
 
